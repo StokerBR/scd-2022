@@ -1,0 +1,3 @@
+__pycache__/
+sockets/test_client.py
+sockets/test_server.py
